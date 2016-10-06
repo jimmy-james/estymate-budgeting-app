@@ -1,6 +1,6 @@
 {
-  "name": "Product.ion",
-  "tagline": "Thesis project for MKS42 group YakkityYaks",
-  "body": "# product.ion\r\nThesis project for MKS42 group YakkityYaks\r\n---\r\nWe, the united YakkityYak Corporations, hereby declare the following:\r\n* Our premiere product for Q3 shall be a multi-faceted financing platform aimed at optimizing data presentations for Television and Web based finance reports.\r\n* Our product shall, specifically, be a budgeting program designed for producers and executive producers of TV and web production companies to organize and view their expenses.\r\n* We fully expect and intend to \"make waves\" on the worldwide tech scene.\r\n\r\nThe YakkityYaks will accomplish these declarations using a style equivalant to that of fellow corporate leader AirBnB, who's goals align with ours.\r\nPlease direct any and all questions to the YakkityYak Slack\r\n*Signed:*\r\nTim Clark (product owner);\r\nNicholas Zeiss (scrum master);\r\nAndrew Leonardi (programmer);\r\nJim Kim (programmer);\r\n",
+  "name": "e$tyMate",
+  "tagline": "Thesis for MKS42: Film production budgeting web-app for Refinery29",
+  "body": "# e$tyMate\r\n---\r\n* Our premier product for Q3 shall be a multi-faceted financing platform aimed at optimizing data presentations for Television and Web based finance reports.\r\n* Our product shall, specifically, be a budgeting program designed for producers and executive producers of TV and web production companies to organize and view their expenses.\r\n* We fully expect and intend to \"make waves\" on the worldwide tech scene.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
