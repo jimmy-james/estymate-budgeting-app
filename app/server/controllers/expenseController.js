@@ -13,8 +13,12 @@
 // });
 var Expense = require('../models/expense.js');
 
-exports.getExpense = function(description, cb) {
-	new Expense({description: description}).fetch({withRelated: ['proj']}).then(cb); 
+exports.getExpense = function(id, cb) {
+	new Expense({id: id}).fetch({withRelated: ['proj']}).then(cb); 
+}
+
+exports.getExpensesByProj = function(id, cb) {
+	new Expense().query("where","projs_id","=",id).fetchAll().then(cb);
 }
 
 exports.makeExpense = function(data, cb) {
