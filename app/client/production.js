@@ -1,3 +1,4 @@
+<<<<<<< 8a74e40eb690228aea30b52ee45517f3f7e3ad75
 // let's go!
 import React from 'react';
 // user curly braces for named
@@ -41,3 +42,5 @@ const router = (
 
 // we can render Main because we imported it.
 render(router, document.getElementById('root'));
+=======
+>>>>>>> Revert "creating post and get requests"
